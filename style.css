@@ -1,0 +1,40 @@
+h3 {
+    text-align: center;
+    color: rgb(96, 181, 209);
+    font-style: italic;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(50, 146, 179); 
+    font-style: italic;
+}
+
+.skill-header {
+    text-align: left;
+}
+
+.skill-container {
+    border: solid; 
+    color: rgb(50, 146, 179); 
+    width: 550px; 
+    margin-left: auto; 
+    margin-right: auto;
+    padding-left: 14px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    background-color: rgb(248, 241, 181);
+    text-align: center; 
+    color: rgb(7, 158, 158); 
+    font-style: italic;
+    margin-bottom: 0px;
+}
+
+nav {
+    background-color: rgb(248, 241, 181);
+    color: rgb(238, 155, 182);
+    text-align: center;
+    margin-bottom: 30px;
+}
